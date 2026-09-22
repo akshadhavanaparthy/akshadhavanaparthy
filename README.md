@@ -101,3 +101,25 @@ APIs
 Computer Vision
 Cloud Technologies
 Software Engineering
+
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshadhavanaparthy&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshadhavanaparthy&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔄 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshadhavanaparthy&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</div>
