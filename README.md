@@ -2,7 +2,7 @@
 
 # ✦ AKSHADHA VANAPARTHY ✦
 
-### 💻 Computer Science Student | AI & Full-Stack Development
+### 💻 Computer Science Student 
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Exploring;AI+%7C+Software+Development+%7C+Technology;Turning+Ideas+into+Reality+%E2%9C%A8" />
 
